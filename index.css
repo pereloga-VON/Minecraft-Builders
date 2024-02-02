@@ -1,4 +1,17 @@
-h1{text-align: center;}
+*{text-align: center;}
 
-#introduction{text-align: center;}
+body {
+    margin: 0;
+    padding: 0;
+    background: url(./Images/indexFont.jpg) repeat;
+    background-color: #ffffff; /* Белый цвет фона */
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    /* Дополнительные стили */
+  }
 
+h1 {text-shadow: 1px 1px 1px;}
+
+#introduction{padding: 10px;}
+
+#chooseThem{padding: 15px;}

@@ -1,1 +1,11 @@
-footer {position: fixed; width: 100%; padding: 10px; bottom: 0;}
+footer {
+        position: fixed;
+        width: 100%;
+        padding: 15px;
+        bottom: 0;
+        text-align: center;
+        margin-right: 10px;
+        span{margin-right: 50px;}
+        }
+
+
