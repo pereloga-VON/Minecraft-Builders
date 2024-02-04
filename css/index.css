@@ -1,0 +1,38 @@
+* {
+  text-align: center;
+}
+
+
+
+body{background: url(./Images/indexFont.jpg);}
+
+#backgroundIntroduction {
+
+  opacity: 0;
+  animation: fadeInBackground 2s ease-in-out forwards; /* Анимация появления фона */
+}
+
+@keyframes fadeInBackground {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+#regorlog {
+
+  opacity: 0;
+  animation: fadeInBackground 2s ease-in-out forwards; /* Анимация появления фона */
+  animation-delay: 1s;
+}
+
+@keyframes fadeInBackground {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

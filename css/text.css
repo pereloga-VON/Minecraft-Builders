@@ -1,0 +1,13 @@
+*{font-family:'balthazar', sans-serif;}
+
+h1 {
+    text-shadow: 1px 1px 1px;
+  }
+  
+  #introduction {
+    padding: 10px;
+  }
+  
+  #chooseThem {
+    padding: 15px;
+  }
